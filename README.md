@@ -26,3 +26,11 @@ This the solution code and screenshot
 ![employee solution ss](assets/employee.png)
 ## Solution code 
 see [`Employee name `](03_employee.sql) for the code
+## 4. Japanese Cities : Query to filter Japanese City
+
+This the solution code and screenshot
+
+## Screenshot
+![employee solution ss](assets/Jananese.png)
+## Solution code 
+see [`Japananese city `](04_Japansese_city.sql) for the code
