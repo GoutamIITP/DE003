@@ -50,3 +50,11 @@ This the solution code and screenshot
 ![employee solution ss](assets/Weather-Observation.png)
 ## Solution code 
 see [`Weather_Observation`](06_Weather-Observation.sql) for the code
+## 7. Weather Observation Station 5 : Query the two cities in STATION with the shortest and longest CITY names, as well as their respective lengths
+
+This the solution code and screenshot
+
+## Screenshot
+![employee solution ss](assets/WeatherOS-5.png)
+## Solution code 
+see [`Weather_Observation`](07_Weather-Observation-Station-5.sql) for the code
