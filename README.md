@@ -18,3 +18,11 @@ This the solution code and screenshot
 ![Select solution ss](assets/Select_BY_ID.png)
 ## Solution code 
 see [`Select by id `](02_Select-By-ID.sql) for the code
+## 3. Employee Names : SQL Query to list all employess names
+
+This the solution code and screenshot
+
+## Screenshot
+![employee solution ss](assets/employee.png)
+## Solution code 
+see [`Employee name `](03_employee.sql) for the code
