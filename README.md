@@ -42,3 +42,11 @@ This the solution code and screenshot
 ![employee solution ss](assets/Weather.png)
 ## Solution code 
 see [`Weather_Observation`](05_Weather_obs.sql) for the code
+## 6. Weather Observation Station 3 : Query a list of CITY names from STATION for cities that have an even ID number
+
+This the solution code and screenshot
+
+## Screenshot
+![employee solution ss](assets/Weather-Observation.png)
+## Solution code 
+see [`Weather_Observation`](06_Weather-Observation.sql) for the code
