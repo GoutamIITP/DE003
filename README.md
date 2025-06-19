@@ -34,3 +34,11 @@ This the solution code and screenshot
 ![employee solution ss](assets/Jananese.png)
 ## Solution code 
 see [`Japananese city `](04_Japansese_city.sql) for the code
+## 5. Weather Observation Station 1 : SQL Query to list of city and state
+
+This the solution code and screenshot
+
+## Screenshot
+![employee solution ss](assets/Weather.png)
+## Solution code 
+see [`Weather_Observation`](05_Weather_obs.sql) for the code
