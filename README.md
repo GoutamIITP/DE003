@@ -58,3 +58,11 @@ This the solution code and screenshot
 ![employee solution ss](assets/WeatherOS-5.png)
 ## Solution code 
 see [`Weather_Observation`](07_Weather-Observation-Station-5.sql) for the code
+## 8. Average Population : Query the average population for all cities in CITY, rounded down to the nearest integer.
+
+This the solution code and screenshot
+
+## Screenshot
+![employee solution ss](assets/Average_popualtion.png)
+## Solution code 
+see [`Weather_Observation`](08_Average_pop.sql) for the code
