@@ -41,7 +41,7 @@ This the solution code and screenshot
 ## Screenshot
 ![employee solution ss](assets/Weather.png)
 ## Solution code 
-see [`Weather_Observation`](05_Weather_obs.sql) for the code
+see [`Weather_Observation station 1`](05_Weather_obs.sql) for the code
 ## 6. Weather Observation Station 3 : Query a list of CITY names from STATION for cities that have an even ID number
 
 This the solution code and screenshot
@@ -49,20 +49,34 @@ This the solution code and screenshot
 ## Screenshot
 ![employee solution ss](assets/Weather-Observation.png)
 ## Solution code 
-see [`Weather_Observation`](06_Weather-Observation.sql) for the code
-## 7. Weather Observation Station 5 : Query the two cities in STATION with the shortest and longest CITY names, as well as their respective lengths
+see [`Weather_Observation station 3`](06_Weather-Observation.sql) for the code
+
+## 7. Weather Observation Station 4 : Find the difference between the total number of CITY entries in the table and the number of distinct CITY entries in the table.
+
+This the solution code and screenshot
+
+## Screenshot
+![employee solution ss](assets/07_Weather.png)
+## Solution code 
+see [`Weather_Observation station 4`](07_Weather-Observation-Station-4%20.sql) for the code
+ 
+
+
+
+## 8. Weather Observation Station 5 : Query the two cities in STATION with the shortest and longest CITY names, as well as their respective lengths
 
 This the solution code and screenshot
 
 ## Screenshot
 ![employee solution ss](assets/WeatherOS-5.png)
 ## Solution code 
-see [`Weather_Observation`](07_Weather-Observation-Station-5.sql) for the code
-## 8. Average Population : Query the average population for all cities in CITY, rounded down to the nearest integer.
+see [`Weather_Observation-station 5`](08_Weather-Observation-Station-5.sql) for the code
+
+## 9. Average Population : Query the average population for all cities in CITY, rounded down to the nearest integer.
 
 This the solution code and screenshot
 
 ## Screenshot
 ![employee solution ss](assets/Average_popualtion.png)
 ## Solution code 
-see [`Weather_Observation`](08_Average_pop.sql) for the code
+see [`Average population`](09_Average_population.sql) for the code
