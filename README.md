@@ -80,3 +80,12 @@ This the solution code and screenshot
 ![employee solution ss](assets/Average_popualtion.png)
 ## Solution code 
 see [`Average population`](09_Average_population.sql) for the code
+
+## 10. Average Population : Query the average population for all cities in CITY, rounded down to the nearest integer.
+
+This the solution code and screenshot
+
+## Screenshot
+![employee solution ss](assets/10-image.png)
+## Solution code 
+see [`Average population`](10_Average-Population.sql) for the code
